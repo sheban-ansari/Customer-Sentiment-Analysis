@@ -19,8 +19,13 @@ The dashboard helps explore customer review patterns, sentiment distribution, pr
 - Amazon Customer Reviews Dataset
 
 ## Project Files
-- `Customer_Sentiment_Analysis_Dashboard.pbix` — Power BI dashboard file
-- `Customer_Sentiment_Analysis_Dashboard.png` — Dashboard screenshot
+
+- **Power BI Dashboard:** [Download PBIX File](./Customer_Sentiment_Analysis_Dashboard.pbix)
+- **Dashboard Screenshot:** [View PNG Image](./Customer_Sentiment_Analysis_Dashboard.png)
+
+## Dashboard Preview
+
+![Customer Sentiment Analysis Dashboard](./Customer_Sentiment_Analysis_Dashboard.png)
 
 ## Purpose
 The objective of this project is to explore customer sentiment patterns and present review data in an interactive, easy-to-understand dashboard.
